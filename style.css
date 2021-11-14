@@ -2,6 +2,9 @@
     background-color:#ffffff;
     
 }
+.dropdown-item{
+    font-family: 'Quicksand', sans-serif;
+}
 
 .logo-img{
     width: 150px;
