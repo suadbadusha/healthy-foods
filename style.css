@@ -312,7 +312,7 @@
     }
     .footer{
         width: 100%;
-        height: 300px;
+        height: auto;
     }
     .footer-icon-grp{
         width: 200px;
