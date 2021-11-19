@@ -11,8 +11,6 @@ body h1{
     box-shadow: 1px 2px 15px rgb(54, 53, 53);
 }.blog-content{
     text-align: center;
-    margin-right: 600px;
-    margin-top: -280px;
     font-family: 'Quicksand', sans-serif;
 }
 .blog_date{
