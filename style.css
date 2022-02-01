@@ -129,7 +129,7 @@
 .contact_info{
     width: 400px;
     height: 420px;
-    background-color: rgb(13, 57, 116);
+    background-color:rgb(85,85,85);
     margin-top: -360px;
     margin-left: -50px;
 }
@@ -146,7 +146,7 @@
     margin-left:500px;
     margin-top: 10px;
     border: none;
-    background-color: rgb(13, 57, 116);
+    background-color: rgb(85,85,85);
     border-radius: 20px;
     color: #fff;
     font-family: 'Quicksand', sans-serif;
