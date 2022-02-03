@@ -85,7 +85,11 @@
     position: relative;
     top: -70px;
 }
+.box2 h3{
+    font-family: 'Quicksand', sans-serif;
+}
 .box2 p{
+    font-family: 'Quicksand', sans-serif;
     margin-top: 4%;
 }
 .Contact{
