@@ -17,7 +17,7 @@
 .box0{
     width: 100%;
     height: auto;
-    background-image:url("/images/pexels-pixabay-326279.jpg");
+    background-image:url("images/pexels-pixabay-326279.jpg");
     background-size:contain;
     background-repeat: no-repeat;
 }
